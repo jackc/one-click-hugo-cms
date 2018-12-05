@@ -1,8 +1,8 @@
 ---
 title: My First Post
 date: 2018-12-05T21:24:41.997Z
-description: Trying out this Netlify thing...
-image: /img/home-about-section.jpg
+description: Trying out this Netlify thing... Hiking can be dangerous.
+image: /img/dscf0672.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue turpis quam, sed fermentum justo laoreet et. Quisque posuere sapien dolor, sit amet imperdiet metus volutpat a. Morbi nibh erat, venenatis sit amet aliquet id, vulputate at sapien. Nullam malesuada, dolor id fringilla venenatis, nibh odio varius urna, eu tempor augue tortor vel velit. Morbi rutrum lectus eget tortor gravida, sit amet pretium sapien volutpat. Proin lobortis orci enim, in lacinia eros egestas nec. Morbi ut nunc a leo feugiat porttitor. Mauris eu lorem ex. Nunc consectetur felis sed scelerisque sodales. Integer quis ipsum consequat, facilisis ligula vel, molestie nunc. Cras interdum gravida tortor, in porta magna.
 
