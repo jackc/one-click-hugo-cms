@@ -2,7 +2,7 @@
 title: My First Post
 date: 2018-12-05T21:24:41.997Z
 description: Trying out this Netlify thing... Hiking can be dangerous.
-image: /img/dscf0672.jpg
+image: 'https://ucarecdn.com/02690ef5-b70c-4a2a-8688-49d856eb138c/'
 ---
 
 Hello, World!
